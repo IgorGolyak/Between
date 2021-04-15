@@ -1,0 +1,7 @@
+C:\Users\golya\source\repos\15.04.21\15.04.21\bin\Debug\15.04.21.exe.config
+C:\Users\golya\source\repos\15.04.21\15.04.21\bin\Debug\15.04.21.exe
+C:\Users\golya\source\repos\15.04.21\15.04.21\bin\Debug\15.04.21.pdb
+C:\Users\golya\source\repos\15.04.21\15.04.21\obj\Debug\15.04.21.csprojAssemblyReference.cache
+C:\Users\golya\source\repos\15.04.21\15.04.21\obj\Debug\15.04.21.csproj.CoreCompileInputs.cache
+C:\Users\golya\source\repos\15.04.21\15.04.21\obj\Debug\15.04.21.exe
+C:\Users\golya\source\repos\15.04.21\15.04.21\obj\Debug\15.04.21.pdb

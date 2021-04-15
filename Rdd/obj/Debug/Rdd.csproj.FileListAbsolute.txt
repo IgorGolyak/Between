@@ -1,0 +1,7 @@
+C:\Users\golya\source\repos\15.04.21\Rdd\obj\Debug\Rdd.csproj.CoreCompileInputs.cache
+C:\Users\golya\source\repos\15.04.21\Rdd\bin\Debug\Rdd.exe.config
+C:\Users\golya\source\repos\15.04.21\Rdd\bin\Debug\Rdd.exe
+C:\Users\golya\source\repos\15.04.21\Rdd\bin\Debug\Rdd.pdb
+C:\Users\golya\source\repos\15.04.21\Rdd\obj\Debug\Rdd.exe
+C:\Users\golya\source\repos\15.04.21\Rdd\obj\Debug\Rdd.pdb
+C:\Users\golya\source\repos\15.04.21\Rdd\obj\Debug\Rdd.csprojAssemblyReference.cache
